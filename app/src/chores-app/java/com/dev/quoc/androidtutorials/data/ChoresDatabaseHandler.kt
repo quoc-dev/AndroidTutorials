@@ -31,7 +31,6 @@ class ChoresDatabaseHandler(context: Context) :
 
         // create table again
         onCreate(db)
-
     }
 
     /**

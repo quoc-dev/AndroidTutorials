@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "118730088402",
+    "firebase_url": "https://kotlinchatapp-bbe0c.firebaseio.com",
+    "project_id": "kotlinchatapp-bbe0c",
+    "storage_bucket": "kotlinchatapp-bbe0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118730088402:android:58964fae9ae84704",
+        "android_client_info": {
+          "package_name": "com.dev.quoc.androidtutorials.tintin.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118730088402-ajbqo9g7o0v3v2nsdrfiso4cq84bneav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.quoc.androidtutorials.tintin.debug",
+            "certificate_hash": "6e5fe44c5d3447cabe64871f97112f1f60d60b29"
+          }
+        },
+        {
+          "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27R5Uqy85P71Hu27wEgT4rR-3ydNQX5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118730088402:android:413291b320d6a53b",
+        "android_client_info": {
+          "package_name": "com.dev.quoc.androidtutorials.chores.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118730088402-quml669pfa50t3ppq2bpc18edff1tdbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.quoc.androidtutorials.chores.debug",
+            "certificate_hash": "6e5fe44c5d3447cabe64871f97112f1f60d60b29"
+          }
+        },
+        {
+          "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27R5Uqy85P71Hu27wEgT4rR-3ydNQX5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
