@@ -19,11 +19,9 @@ class UsersFragment : Fragment() {
 
     var mUserDatabase: DatabaseReference? = null
 
-
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater!!.inflate(R.layout.fragment_users, container, false)
     }
-
 
     override fun onViewCreated(view: View?, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
@@ -37,8 +35,6 @@ class UsersFragment : Fragment() {
 
         userRecyclerViewId.layoutManager = linearLayoutManager
         userRecyclerViewId.adapter = UsersAdapter(mUserDatabase!!, context)
-
-
     }
 
 }

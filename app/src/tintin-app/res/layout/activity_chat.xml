@@ -54,7 +54,5 @@
             android:layout_gravity="bottom"
             android:layout_weight="1"
             android:background="@drawable/ic_send_black_24dp"/>
-
-
     </LinearLayout>
 </RelativeLayout>

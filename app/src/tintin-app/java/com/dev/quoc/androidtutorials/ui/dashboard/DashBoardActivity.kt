@@ -9,7 +9,7 @@ import android.view.MenuItem
 import android.widget.Toast
 import com.dev.quoc.androidtutorials.R
 import com.dev.quoc.androidtutorials.TinTinActivity
-import com.dev.quoc.androidtutorials.ui.profile.ProfileActivity
+import com.dev.quoc.androidtutorials.ui.setting.SettingActivity
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.`tintin-app`.activity_dashboard.*
 
@@ -56,7 +56,7 @@ class DashBoardActivity : AppCompatActivity() {
 
             if (item.itemId == R.id.settingsId) {
                 //take user to settingsActivity
-                startActivity(Intent(this, ProfileActivity::class.java))
+                startActivity(Intent(this, SettingActivity::class.java))
             }
         }
         return true

@@ -32,8 +32,16 @@
 
         <activity android:name=".ui.dashboard.DashBoardActivity"/>
 
-        <activity android:name=".ui.profile.ProfileActivity"/>
+        <activity
+            android:name=".ui.profile.ProfileActivity"
+            android:parentActivityName=".ui.dashboard.DashBoardActivity"/>
 
         <activity android:name=".ui.status.StatusActivity"/>
+
+        <activity android:name=".ui.setting.SettingActivity"/>
+
+        <activity
+            android:name=".ui.chat.ChatActivity"
+            android:parentActivityName=".ui.dashboard.DashBoardActivity"/>
     </application>
 </manifest>
