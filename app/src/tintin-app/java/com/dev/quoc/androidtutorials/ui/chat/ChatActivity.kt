@@ -58,9 +58,6 @@ class ChatActivity : AppCompatActivity() {
 
         supportActionBar!!.customView = actionBarView
 
-
-
-
         mFirebaseDatabaseRef = FirebaseDatabase.getInstance().reference
 
         mFirebaseAdapter = object : FirebaseRecyclerAdapter<FriendlyMessage,

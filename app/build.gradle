@@ -41,6 +41,11 @@ android {
             dimension "name-tutorial"
             applicationIdSuffix "tintin"
         }
+
+        'antssmasher-app' {
+            dimension "name-tutorial"
+            applicationIdSuffix "antssmasher"
+        }
     }
 
     sourceSets {
@@ -50,6 +55,10 @@ android {
 
         'tintin-app' {
             res.srcDirs = ['src/tintin-app/res']
+        }
+
+        'antssmasher-app' {
+            res.srcDirs = ['src/antssmasher-app/res']
         }
     }
 
