@@ -137,6 +137,94 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118730088402:android:1484c6faf31813e2",
+        "android_client_info": {
+          "package_name": "com.dev.quoc.androidtutorials.picktext.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118730088402-0h4mb2opsqtvvppme4t9d4sdhl5e2p1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.quoc.androidtutorials.picktext.debug",
+            "certificate_hash": "6e5fe44c5d3447cabe64871f97112f1f60d60b29"
+          }
+        },
+        {
+          "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27R5Uqy85P71Hu27wEgT4rR-3ydNQX5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118730088402:android:41f8f790e8a9c74a",
+        "android_client_info": {
+          "package_name": "com.dev.quoc.androidtutorials.tictactoe.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118730088402-052j4so3thvo28ki1tju4ks10kn4j016.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.quoc.androidtutorials.tictactoe.debug",
+            "certificate_hash": "6e5fe44c5d3447cabe64871f97112f1f60d60b29"
+          }
+        },
+        {
+          "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27R5Uqy85P71Hu27wEgT4rR-3ydNQX5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118730088402-90tuo3vcuplu963djgplvrk39rlo8118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

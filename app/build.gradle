@@ -46,6 +46,12 @@ android {
             dimension "name-tutorial"
             applicationIdSuffix "antssmasher"
         }
+
+        'tictactoe-app' {
+            dimension "name-tutorial"
+            applicationIdSuffix "tictactoe"
+        }
+
     }
 
     sourceSets {
@@ -59,6 +65,10 @@ android {
 
         'antssmasher-app' {
             res.srcDirs = ['src/antssmasher-app/res']
+        }
+
+        'tictactoe-app' {
+            res.srcDirs = ['src/tictactoe-app/res']
         }
     }
 
